@@ -9,7 +9,7 @@ def f(x):
 print(f(2343))
 
 
-# When 2343 will be passed the value od d will be 0 and y will be one
+# When 2343 will be passed the value of d will be 0 and y will be one
 # In the first itteration y value will be 1 and x vale will be 2343 so 
 # 1<=2343 true therefore the value of d will be increamented by 1 and y will be multiplied by 3
 # 3<=2343     true d=2
