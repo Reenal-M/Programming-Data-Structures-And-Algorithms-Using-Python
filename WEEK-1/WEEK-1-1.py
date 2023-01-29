@@ -6,7 +6,7 @@ def f(x):
         y=y*3
     return(d)
 
-print(f(2343))
+print(f(238))
 
 
 # When 2343 will be passed the value of d will be 0 and y will be one
