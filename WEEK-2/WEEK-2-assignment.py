@@ -15,7 +15,6 @@ def is_prime(n):
             return False
     return True
 
-
 #Question-2
 
 def matched(s):
